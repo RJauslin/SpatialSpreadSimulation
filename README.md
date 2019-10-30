@@ -1,4 +1,4 @@
-# Spatial Spread Simulation
+# Spatial Spread Simulations
 Simulation results and code script of the paper https://arxiv.org/abs/1910.13152
 
 # Download
