@@ -1,3 +1,8 @@
+# These lines are here to set the working directory
+# equal to the full path where SpatialSpread.R is saved.
+#
+# It allows that relative paths './results/' are working.
+# You can remove these lines or specify the path where './results/' apprears.
 
 pathIni <- getwd()
 path <- dirname(rstudioapi::getSourceEditorContext()$path)
