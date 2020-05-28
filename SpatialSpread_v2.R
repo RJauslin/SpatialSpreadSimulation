@@ -527,7 +527,7 @@ n <- c(n1,n2,n3)
 # # pik <- list(pik_pp,pik_ns,pik_grid)
 # # names(pik) <- c("pp","ns","grid")
 # # saveRDS(pik, file = "./results/pik_20_05_2020.rds")
-# pik <- readRDS(file = "./results/pik_16_10_2019.rds")
+# pik <- readRDS(file = "./results/pik_20_05_2019.rds")
 #
 # X <- list(X_pp,X_ns,X_grid)
 # N <- list(N_pp,N_ns,N_grid)
