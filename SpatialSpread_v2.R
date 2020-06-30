@@ -13,7 +13,7 @@ setwd(path)
 ## ----setup, include=FALSE----------------------------------------------------------------------------------------------------------
 
 # install.packages("Rcpp")
-# # install.packages("WaveSampling")
+# install.packages("WaveSampling")
 # install.packages("sampling")
 # install.packages("BalancedSampling")
 # install.packages("spatstat")
